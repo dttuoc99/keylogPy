@@ -1,2 +1,2 @@
 # keylogPy
-A simple keylogger written in python
+A simple cybersec project keylogger written in python
